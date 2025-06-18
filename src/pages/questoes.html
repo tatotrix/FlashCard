@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Teste de Certificação</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f7f9fc;
+      margin: 0;
+      padding: 20px;
+    }
+    #questions-container {
+      max-width: 700px;
+      margin: auto;
+    }
+    .card {
+      background: #fff;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+    .card button.option {
+      display: block;
+      width: 100%;
+      padding: 10px;
+      margin-top: 8px;
+      border: none;
+      border-radius: 5px;
+      background: #eee;
+      cursor: pointer;
+      font-size: 1rem;
+    }
+    .card button.option:hover {
+      background: #ddd;
+    }
+    .result {
+      margin-top: 10px;
+      font-weight: bold;
+    }
+    .next-btn, .restart-btn {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 10px 20px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .next-btn:hover, .restart-btn:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Pular para o conteúdo</a>
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#" data-i18n="app_title">FlashCards</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarContent">
+        <ul class="navbar-nav me-auto">
+          <li class="nav-item"><a class="nav-link active" href="index.html" data-i18n="home">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="index.html" data-i18n="cards">Cards</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/cadastrar.html" data-i18n="add_cards">Cadastrar Cards</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/questoes.html" data-i18n="questions">Questões</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/settings.html" data-i18n="settings">Configurações</a></li>
+          <li class="nav-item"><a class="nav-link text-danger" href="#" onclick="logout()" data-i18n="logout">Logout</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div id="questions-container"></div>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const questions = JSON.parse(localStorage.getItem("questions")) || [];
+      let currentIndex = 0;
+      let stats = JSON.parse(localStorage.getItem("questionStats")) || { correct: 0, wrong: 0 };
+
+      const container = document.getElementById("questions-container");
+
+      function showQuestion(index) {
+        container.innerHTML = '';
+        const q = questions[index];
+        if (!q) {
+          container.innerHTML = `
+            <div class='card'>
+              <h2>🎉 Teste finalizado!</h2>
+              <p>Total de perguntas: ${questions.length}</p>
+              <p>✅ Acertos: ${stats.correct}</p>
+              <p>❌ Erros: ${stats.wrong}</p>
+              <p>🎯 Precisão: ${((stats.correct / questions.length) * 100).toFixed(1)}%</p>
+              <button class="restart-btn" onclick="restartTest()">🔁 Reiniciar Teste</button>
+            </div>`;
+          return;
+        }
+
+        const div = document.createElement("div");
+        div.className = "card";
+
+        let opts;
+        try {
+          opts = JSON.parse(q.options);
+        } catch (e) {
+          opts = [];
+        }
+
+        const correctIndex = q.correctAnswer;
+
+        div.innerHTML = `
+          <strong>${index + 1}/${questions.length} - ${q.question}</strong>
+          <div id="options-container" style="margin-top: 15px;">
+            ${opts.map((opt, i) => `<button class="option" data-correct="${i === correctIndex}">${opt}</button>`).join("")}
+          </div>
+          <div class="result" style="margin-top: 10px;"></div>
+          <button class="next-btn" style="display:none;">➡️ Próxima pergunta</button>
+        `;
+
+        container.appendChild(div);
+
+        const result = div.querySelector(".result");
+        const nextBtn = div.querySelector(".next-btn");
+        const buttons = div.querySelectorAll(".option");
+
+        let answeredCorrectly = false;
+
+        buttons.forEach(btn => {
+          btn.addEventListener("click", () => {
+            const isCorrect = btn.dataset.correct === "true";
+
+            if (isCorrect) {
+              if (!answeredCorrectly) {
+                stats.correct++;
+                answeredCorrectly = true;
+                localStorage.setItem("questionStats", JSON.stringify(stats));
+              }
+              result.innerHTML = "<span style='color:green;'>🎉 Parabéns! Resposta correta.</span>";
+              btn.style.backgroundColor = "#c8f7c5";
+              nextBtn.style.display = "inline-block";
+            } else {
+              stats.wrong++;
+              localStorage.setItem("questionStats", JSON.stringify(stats));
+              result.innerHTML = "<span style='color:red;'>❌ Tente novamente.</span>";
+              btn.style.backgroundColor = "#f7c5c5";
+            }
+          });
+        });
+
+        nextBtn.addEventListener("click", () => {
+          currentIndex++;
+          showQuestion(currentIndex);
+        });
+      }
+
+      window.restartTest = function () {
+        currentIndex = 0;
+        stats = { correct: 0, wrong: 0 };
+        localStorage.setItem("questionStats", JSON.stringify(stats));
+        showQuestion(currentIndex);
+      }
+
+      showQuestion(currentIndex);
+    });
+  </script>
+</body>
+</html>

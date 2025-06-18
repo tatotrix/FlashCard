@@ -1,0 +1,6252 @@
+[
+  {
+    "id": 14,
+    "en": "I work as a software engineer.",
+    "pt": "Eu trabalho como engenheiro de software.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 15,
+    "en": "I've been living here for two years.",
+    "pt": "Eu moro aqui há dois anos.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 20,
+    "en": "What do you do for a living?",
+    "pt": "O que você faz da vida?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 24,
+    "en": "Did you watch the game last night?",
+    "pt": "Você assistiu ao jogo ontem à noite?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 26,
+    "en": "Do you have any plans for the weekend?",
+    "pt": "Você tem planos para o fim de semana?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 29,
+    "en": "Have you seen that new movie?",
+    "pt": "Você viu aquele filme novo?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 30,
+    "en": "What kind of music do you like?",
+    "pt": "Que tipo de música você gosta?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 32,
+    "en": "What would you like to eat?",
+    "pt": "O que você gostaria de comer?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 33,
+    "en": "Can I see the menu, please?",
+    "pt": "Posso ver o cardápio, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 36,
+    "en": "Could I have the check, please?",
+    "pt": "Poderia me trazer a conta, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 42,
+    "en": "Do you have this in a different color?",
+    "pt": "Você tem isto em uma cor diferente?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 44,
+    "en": "Where can I find the shoes?",
+    "pt": "Onde posso encontrar os sapatos?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 49,
+    "en": "Do you have this in my size?",
+    "pt": "Você tem isto no meu tamanho?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 50,
+    "en": "Can I return this if it doesn't fit?",
+    "pt": "Posso devolver isto se não servir?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 52,
+    "en": "How do I get to the airport?",
+    "pt": "Como chego ao aeroporto?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 53,
+    "en": "I'd like to book a room.",
+    "pt": "Eu gostaria de reservar um quarto.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 54,
+    "en": "What time does the train leave?",
+    "pt": "A que horas o trem parte?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 55,
+    "en": "Can you recommend a good restaurant?",
+    "pt": "Você pode recomendar um bom restaurante?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 56,
+    "en": "How much is a ticket to New York?",
+    "pt": "Quanto custa uma passagem para Nova York?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 57,
+    "en": "Is there a bus to the city center?",
+    "pt": "Há um ônibus para o centro da cidade?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 58,
+    "en": "I'm lost. Can you help me?",
+    "pt": "Estou perdido(a). Pode me ajudar?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 60,
+    "en": "What are the must-see attractions here?",
+    "pt": "Quais são as atrações imperdíveis aqui?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 61,
+    "en": "I'd like to schedule a meeting.",
+    "pt": "Eu gostaria de agendar uma reunião.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 64,
+    "en": "Could you send me the report?",
+    "pt": "Você poderia me enviar o relatório?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 65,
+    "en": "We need to meet the deadline.",
+    "pt": "Precisamos cumprir o prazo.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 66,
+    "en": "I'll follow up with an email.",
+    "pt": "Vou acompanhar com um e-mail.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 67,
+    "en": "Let's set up a conference call.",
+    "pt": "Vamos organizar uma teleconferência.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 68,
+    "en": "What's your opinion on this matter?",
+    "pt": "Qual é a sua opinião sobre este assunto?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 69,
+    "en": "I'm working on the project now.",
+    "pt": "Estou trabalhando no projeto agora.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 70,
+    "en": "The meeting is scheduled for tomorrow.",
+    "pt": "A reunião está marcada para amanhã.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 79,
+    "en": "Where is the nearest police station?",
+    "pt": "Onde fica a delegacia mais próxima?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 80,
+    "en": "Can you help me? It's urgent.",
+    "pt": "Pode me ajudar? É urgente.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 81,
+    "en": "Excuse me, how do I get to the museum?",
+    "pt": "Com licença, como chego ao museu?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 82,
+    "en": "Turn right at the traffic light.",
+    "pt": "Vire à direita no semáforo.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 84,
+    "en": "It's on the left, next to the bank.",
+    "pt": "É à esquerda, ao lado do banco.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 86,
+    "en": "Can you show me on the map?",
+    "pt": "Pode me mostrar no mapa?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 87,
+    "en": "Take the first exit at the roundabout.",
+    "pt": "Pegue a primeira saída na rotatória.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 88,
+    "en": "It's about a 10-minute walk from here.",
+    "pt": "É cerca de 10 minutos a pé daqui.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 90,
+    "en": "Is this the right way to the station?",
+    "pt": "Este é o caminho certo para a estação?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 93,
+    "en": "What's the password for the Wi-Fi?",
+    "pt": "Qual é a senha do Wi-Fi?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 94,
+    "en": "I need to charge my laptop.",
+    "pt": "Preciso carregar meu laptop.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 95,
+    "en": "Can you help me install this app?",
+    "pt": "Pode me ajudar a instalar este aplicativo?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 97,
+    "en": "I can't connect to the internet.",
+    "pt": "Não consigo me conectar à internet.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 98,
+    "en": "How do I reset this device?",
+    "pt": "Como faço para reiniciar este dispositivo?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 99,
+    "en": "Is there a power outlet nearby?",
+    "pt": "Há uma tomada por perto?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 100,
+    "en": "I need to print some documents.",
+    "pt": "Preciso imprimir alguns documentos.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 102,
+    "en": "I need to see a doctor.",
+    "pt": "Preciso ver um médico.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 111,
+    "en": "I'd like to check in, please.",
+    "pt": "Eu gostaria de fazer o check-in, por favor.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 116,
+    "en": "Can I have some extra towels?",
+    "pt": "Posso ter algumas toalhas extras?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 118,
+    "en": "Can you recommend a good hotel?",
+    "pt": "Você pode recomendar um bom hotel?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 119,
+    "en": "How much is it per night?",
+    "pt": "Quanto custa por noite?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 121,
+    "en": "Where can I catch a taxi?",
+    "pt": "Onde posso pegar um táxi?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 122,
+    "en": "How much is the fare to downtown?",
+    "pt": "Quanto custa a tarifa para o centro?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 123,
+    "en": "Does this bus go to the beach?",
+    "pt": "Este ônibus vai para a praia?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 124,
+    "en": "I need to rent a car.",
+    "pt": "Preciso alugar um carro.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 125,
+    "en": "When is the next train to Boston?",
+    "pt": "Quando é o próximo trem para Boston?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 126,
+    "en": "Is there a direct flight to Chicago?",
+    "pt": "Há um voo direto para Chicago?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 127,
+    "en": "Can you call me a cab?",
+    "pt": "Pode chamar um táxi para mim?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 129,
+    "en": "I'd like a one-way ticket, please.",
+    "pt": "Eu gostaria de uma passagem só de ida, por favor.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 130,
+    "en": "Does this train stop at Central Station?",
+    "pt": "Este trem para na Estação Central?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 132,
+    "en": "Are there any good concerts this weekend?",
+    "pt": "Há algum bom show neste fim de semana?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 134,
+    "en": "What time does the show start?",
+    "pt": "A que horas começa o show?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 136,
+    "en": "Do you recommend any local attractions?",
+    "pt": "Você recomenda alguma atração local?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 137,
+    "en": "Are there any good nightclubs around here?",
+    "pt": "Há alguma boa boate por aqui?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 138,
+    "en": "Where can I buy tickets for the game?",
+    "pt": "Onde posso comprar ingressos para o jogo?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 141,
+    "en": "What's the weather forecast for tomorrow?",
+    "pt": "Qual é a previsão do tempo para amanhã?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 143,
+    "en": "I think it's going to rain.",
+    "pt": "Acho que vai chover.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 145,
+    "en": "Do you think I need an umbrella?",
+    "pt": "Você acha que preciso de um guarda-chuva?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 146,
+    "en": "The weather is perfect for a picnic.",
+    "pt": "O tempo está perfeito para um piquenique.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 155,
+    "en": "I need help with my homework.",
+    "pt": "Preciso de ajuda com meu dever de casa.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 157,
+    "en": "I'm going to graduate next year.",
+    "pt": "Vou me formar no próximo ano.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 159,
+    "en": "I need to prepare for my exam.",
+    "pt": "Preciso me preparar para minha prova.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 160,
+    "en": "Can you recommend a good language school?",
+    "pt": "Você pode recomendar uma boa escola de idiomas?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 161,
+    "en": "I have a job interview tomorrow.",
+    "pt": "Tenho uma entrevista de emprego amanhã.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 162,
+    "en": "What time do you start work?",
+    "pt": "A que horas você começa a trabalhar?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 163,
+    "en": "I'm looking for a new job.",
+    "pt": "Estou procurando um novo emprego.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 164,
+    "en": "Can you help me with this task?",
+    "pt": "Pode me ajudar com esta tarefa?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 165,
+    "en": "I need to finish this project by Friday.",
+    "pt": "Preciso terminar este projeto até sexta-feira.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 166,
+    "en": "I'm going to be late for work.",
+    "pt": "Vou me atrasar para o trabalho.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 167,
+    "en": "I have a meeting at 3 PM.",
+    "pt": "Tenho uma reunião às 15h.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 168,
+    "en": "My boss asked me to work overtime.",
+    "pt": "Meu chefe me pediu para fazer hora extra.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 169,
+    "en": "I'm taking a day off tomorrow.",
+    "pt": "Vou tirar um dia de folga amanhã.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 171,
+    "en": "I have two brothers and one sister.",
+    "pt": "Tenho dois irmãos e uma irmã.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 173,
+    "en": "How many children do you have?",
+    "pt": "Quantos filhos você tem?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 174,
+    "en": "My daughter is five years old.",
+    "pt": "Minha filha tem cinco anos.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 175,
+    "en": "We're having a family reunion next month.",
+    "pt": "Teremos uma reunião de família no próximo mês.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 176,
+    "en": "My grandfather is 90 years old.",
+    "pt": "Meu avô tem 90 anos.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 178,
+    "en": "My sister just had a baby.",
+    "pt": "Minha irmã acabou de ter um bebê.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 179,
+    "en": "Are you close to your family?",
+    "pt": "Você é próximo(a) da sua família?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 180,
+    "en": "We're celebrating my mom's birthday this weekend.",
+    "pt": "Estamos comemorando o aniversário da minha mãe neste fim de semana.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 182,
+    "en": "What do you do in your free time?",
+    "pt": "O que você faz no seu tempo livre?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 183,
+    "en": "I like to read science fiction novels.",
+    "pt": "Eu gosto de ler romances de ficção científica.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 184,
+    "en": "Do you play any musical instruments?",
+    "pt": "Você toca algum instrumento musical?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 186,
+    "en": "I'm learning how to cook Italian food.",
+    "pt": "Estou aprendendo a cozinhar comida italiana.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 191,
+    "en": "I think that's a great idea.",
+    "pt": "Acho que é uma ótima ideia.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 193,
+    "en": "What do you think about this?",
+    "pt": "O que você acha disso?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 194,
+    "en": "In my opinion, it's not worth it.",
+    "pt": "Na minha opinião, não vale a pena.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 197,
+    "en": "I have mixed feelings about it.",
+    "pt": "Tenho sentimentos mistos sobre isso.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 198,
+    "en": "I strongly believe that education is important.",
+    "pt": "Acredito firmemente que a educação é importante.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 199,
+    "en": "What are your thoughts on this matter?",
+    "pt": "Quais são seus pensamentos sobre este assunto?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 202,
+    "en": "I'm a bit nervous about the presentation.",
+    "pt": "Estou um pouco nervoso(a) com a apresentação.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 204,
+    "en": "I'm so excited about the trip!",
+    "pt": "Estou tão animado(a) com a viagem!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 205,
+    "en": "I'm really stressed out at work.",
+    "pt": "Estou realmente estressado(a) no trabalho.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 208,
+    "en": "I'm feeling a bit under the weather.",
+    "pt": "Estou me sentindo um pouco indisposto(a).",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 210,
+    "en": "I'm proud of what we accomplished.",
+    "pt": "Estou orgulhoso(a) do que realizamos.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 213,
+    "en": "The meeting starts at 2 PM.",
+    "pt": "A reunião começa às 14h.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 214,
+    "en": "Can we reschedule for next week?",
+    "pt": "Podemos remarcar para a próxima semana?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 218,
+    "en": "I've been waiting for an hour.",
+    "pt": "Estou esperando há uma hora.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 220,
+    "en": "The store closes at 9 PM.",
+    "pt": "A loja fecha às 21h.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 222,
+    "en": "Would you mind opening the window?",
+    "pt": "Você se importaria de abrir a janela?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 225,
+    "en": "Could you speak more slowly, please?",
+    "pt": "Você poderia falar mais devagar, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 226,
+    "en": "Would it be possible to get an extension?",
+    "pt": "Seria possível conseguir uma extensão?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 227,
+    "en": "Can you show me how this works?",
+    "pt": "Você pode me mostrar como isso funciona?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 228,
+    "en": "Do you mind if I sit here?",
+    "pt": "Você se importa se eu sentar aqui?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 230,
+    "en": "Can I have your email address?",
+    "pt": "Posso ter seu endereço de e-mail?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 234,
+    "en": "I didn't mean to offend you.",
+    "pt": "Não quis ofendê-lo(a).",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 238,
+    "en": "I completely forgot about our meeting.",
+    "pt": "Esqueci completamente da nossa reunião.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 239,
+    "en": "I'm sorry for keeping you waiting.",
+    "pt": "Desculpe por fazê-lo(a) esperar.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 240,
+    "en": "That was a mistake on my part.",
+    "pt": "Foi um erro da minha parte.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 248,
+    "en": "I knew you could do it!",
+    "pt": "Eu sabia que você conseguiria!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 251,
+    "en": "Would you like to join us for dinner?",
+    "pt": "Você gostaria de se juntar a nós para o jantar?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 253,
+    "en": "Let's go out for coffee sometime.",
+    "pt": "Vamos tomar um café qualquer dia desses.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 254,
+    "en": "Would you like to come to my party?",
+    "pt": "Você gostaria de vir à minha festa?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 255,
+    "en": "I'm having a barbecue on Sunday. Can you come?",
+    "pt": "Estou fazendo um churrasco no domingo. Você pode vir?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 256,
+    "en": "Do you want to go to the movies tonight?",
+    "pt": "Você quer ir ao cinema hoje à noite?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 258,
+    "en": "Would you be interested in joining our book club?",
+    "pt": "Você estaria interessado(a) em participar do nosso clube do livro?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 259,
+    "en": "Let's catch up over lunch next week.",
+    "pt": "Vamos colocar o papo em dia durante o almoço na próxima semana.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 260,
+    "en": "I'd like to invite you to my graduation ceremony.",
+    "pt": "Gostaria de convidá-lo(a) para minha cerimônia de formatura.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 266,
+    "en": "I look forward to seeing you again.",
+    "pt": "Espero vê-lo(a) novamente.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 272,
+    "en": "Can I speak to John, please?",
+    "pt": "Posso falar com John, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 274,
+    "en": "Could you put me on hold, please?",
+    "pt": "Você poderia me colocar em espera, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 277,
+    "en": "I think we have a bad connection.",
+    "pt": "Acho que temos uma conexão ruim.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 278,
+    "en": "Please leave a message after the beep.",
+    "pt": "Por favor, deixe uma mensagem após o bipe.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 280,
+    "en": "My phone is about to die.",
+    "pt": "Meu telefone está quase sem bateria.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 282,
+    "en": "Please find attached the documents you requested.",
+    "pt": "Em anexo estão os documentos que você solicitou.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 283,
+    "en": "I look forward to hearing from you.",
+    "pt": "Aguardo seu retorno.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 284,
+    "en": "Thank you for your prompt reply.",
+    "pt": "Obrigado(a) pela sua resposta rápida.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 285,
+    "en": "I'm following up on our previous conversation.",
+    "pt": "Estou dando seguimento à nossa conversa anterior.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 286,
+    "en": "Could you please confirm receipt of this email?",
+    "pt": "Você poderia confirmar o recebimento deste e-mail?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 287,
+    "en": "I'm writing to inform you that...",
+    "pt": "Estou escrevendo para informá-lo(a) que...",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 288,
+    "en": "Please let me know if you need any further information.",
+    "pt": "Por favor, avise-me se precisar de mais informações.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 289,
+    "en": "I apologize for the delayed response.",
+    "pt": "Peço desculpas pela resposta tardia.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 291,
+    "en": "What do you do for fun?",
+    "pt": "O que você faz para se divertir?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 297,
+    "en": "Have you tried the local cuisine?",
+    "pt": "Você já experimentou a culinária local?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 298,
+    "en": "What kind of music are you into?",
+    "pt": "Que tipo de música você gosta?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 300,
+    "en": "What are your plans for the holidays?",
+    "pt": "Quais são seus planos para as férias?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 303,
+    "en": "That costs an arm and a leg.",
+    "pt": "Isso custa os olhos da cara.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 321,
+    "en": "I usually wake up at 7 AM.",
+    "pt": "Normalmente acordo às 7h.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 322,
+    "en": "I brush my teeth twice a day.",
+    "pt": "Escovo os dentes duas vezes por dia.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 323,
+    "en": "I take a shower every morning.",
+    "pt": "Tomo banho todas as manhãs.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 324,
+    "en": "I have breakfast at 8 AM.",
+    "pt": "Tomo café da manhã às 8h.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 325,
+    "en": "I commute to work by bus.",
+    "pt": "Vou para o trabalho de ônibus.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 326,
+    "en": "I start work at 9 AM.",
+    "pt": "Começo a trabalhar às 9h.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 328,
+    "en": "I finish work at 5 PM.",
+    "pt": "Termino de trabalhar às 17h.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 329,
+    "en": "I go to the gym three times a week.",
+    "pt": "Vou à academia três vezes por semana.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 332,
+    "en": "I go to bed around 11 PM.",
+    "pt": "Vou para a cama por volta das 23h.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 333,
+    "en": "I sleep for about eight hours.",
+    "pt": "Durmo cerca de oito horas.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 335,
+    "en": "I clean my apartment on Saturdays.",
+    "pt": "Limpo meu apartamento aos sábados.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 336,
+    "en": "I go grocery shopping once a week.",
+    "pt": "Faço compras no supermercado uma vez por semana.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 337,
+    "en": "I pay my bills at the beginning of the month.",
+    "pt": "Pago minhas contas no início do mês.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 338,
+    "en": "I visit my parents on Sundays.",
+    "pt": "Visito meus pais aos domingos.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 339,
+    "en": "I call my friend every day.",
+    "pt": "Ligo para meu amigo todos os dias.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 340,
+    "en": "I check my emails in the morning.",
+    "pt": "Verifico meus e-mails pela manhã.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 341,
+    "en": "Is there a bus to the city center?",
+    "pt": "Há um ônibus para o centro da cidade?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 343,
+    "en": "I'm going to be late for work!",
+    "pt": "Vou me atrasar para o trabalho!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 347,
+    "en": "I need to finish this project by Friday!",
+    "pt": "Preciso terminar este projeto até sexta-feira!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 351,
+    "en": "In my opinion, it's not worth it!",
+    "pt": "Na minha opinião, não vale a pena!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 353,
+    "en": "I'm proud of what we accomplished!",
+    "pt": "Estou orgulhoso(a) do que realizamos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 356,
+    "en": "How do I reset this device?",
+    "pt": "Como faço para reiniciar este dispositivo?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 359,
+    "en": "Could you put me on hold, please?",
+    "pt": "Você poderia me colocar em espera, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 362,
+    "en": "In my opinion, it's not worth it!",
+    "pt": "Na minha opinião, não vale a pena!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 363,
+    "en": "That was a mistake on my part!",
+    "pt": "Foi um erro da minha parte!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 365,
+    "en": "I like to read science fiction novels!",
+    "pt": "Eu gosto de ler romances de ficção científica!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 370,
+    "en": "What's the password for the Wi-Fi?",
+    "pt": "Qual é a senha do Wi-Fi?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 371,
+    "en": "Can you recommend a good language school?",
+    "pt": "Você pode recomendar uma boa escola de idiomas?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 372,
+    "en": "I'm feeling a bit under the weather!",
+    "pt": "Estou me sentindo um pouco indisposto(a)!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 374,
+    "en": "The meeting starts at 2 PM!",
+    "pt": "A reunião começa às 14h!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 378,
+    "en": "Is there a bus to the city center?",
+    "pt": "Há um ônibus para o centro da cidade?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 379,
+    "en": "Is this the right way to the station?",
+    "pt": "Este é o caminho certo para a estação?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 380,
+    "en": "I have mixed feelings about it!",
+    "pt": "Tenho sentimentos mistos sobre isso!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 382,
+    "en": "We need to meet the deadline!",
+    "pt": "Precisamos cumprir o prazo!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 383,
+    "en": "I'd like to invite you to my graduation ceremony!",
+    "pt": "Gostaria de convidá-lo(a) para minha cerimônia de formatura!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 385,
+    "en": "The weather is perfect for a picnic!",
+    "pt": "O tempo está perfeito para um piquenique!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 388,
+    "en": "Please find attached the documents you requested!",
+    "pt": "Em anexo estão os documentos que você solicitou!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 393,
+    "en": "I need help with my homework!",
+    "pt": "Preciso de ajuda com meu dever de casa!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 394,
+    "en": "What do you do for a living?",
+    "pt": "O que você faz da vida?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 397,
+    "en": "I'm working on the project now!",
+    "pt": "Estou trabalhando no projeto agora!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 399,
+    "en": "I didn't mean to offend you!",
+    "pt": "Não quis ofendê-lo(a)!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 400,
+    "en": "Are there any good concerts this weekend?",
+    "pt": "Há algum bom show neste fim de semana?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 402,
+    "en": "I have mixed feelings about it!",
+    "pt": "Tenho sentimentos mistos sobre isso!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 405,
+    "en": "What are your plans for the holidays?",
+    "pt": "Quais são seus planos para as férias?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 410,
+    "en": "I work as a software engineer!",
+    "pt": "Eu trabalho como engenheiro de software!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 411,
+    "en": "How much is a ticket to New York?",
+    "pt": "Quanto custa uma passagem para Nova York?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 412,
+    "en": "Thank you for your prompt reply!",
+    "pt": "Obrigado(a) pela sua resposta rápida!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 413,
+    "en": "I'd like to invite you to my graduation ceremony!",
+    "pt": "Gostaria de convidá-lo(a) para minha cerimônia de formatura!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 414,
+    "en": "Would you mind opening the window?",
+    "pt": "Você se importaria de abrir a janela?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 415,
+    "en": "Excuse me, how do I get to the museum?",
+    "pt": "Com licença, como chego ao museu?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 416,
+    "en": "Please leave a message after the beep!",
+    "pt": "Por favor, deixe uma mensagem após o bipe!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 417,
+    "en": "I'd like a one-way ticket, please!",
+    "pt": "Eu gostaria de uma passagem só de ida, por favor!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 419,
+    "en": "The weather is perfect for a picnic!",
+    "pt": "O tempo está perfeito para um piquenique!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 421,
+    "en": "I think it's going to rain!",
+    "pt": "Acho que vai chover!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 422,
+    "en": "I'm lost! Can you help me?",
+    "pt": "Estou perdido(a)! Pode me ajudar?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 426,
+    "en": "What kind of music do you like?",
+    "pt": "Que tipo de música você gosta?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 429,
+    "en": "I'm really stressed out at work!",
+    "pt": "Estou realmente estressado(a) no trabalho!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 430,
+    "en": "I'm sorry for keeping you waiting!",
+    "pt": "Desculpe por fazê-lo(a) esperar!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 431,
+    "en": "I didn't mean to offend you!",
+    "pt": "Não quis ofendê-lo(a)!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 432,
+    "en": "In my opinion, it's not worth it!",
+    "pt": "Na minha opinião, não vale a pena!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 433,
+    "en": "Can you recommend a good language school?",
+    "pt": "Você pode recomendar uma boa escola de idiomas?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 435,
+    "en": "Is there a power outlet nearby?",
+    "pt": "Há uma tomada por perto?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 436,
+    "en": "Can I see the menu, please?",
+    "pt": "Posso ver o cardápio, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 438,
+    "en": "The weather is perfect for a picnic!",
+    "pt": "O tempo está perfeito para um piquenique!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 441,
+    "en": "My boss asked me to work overtime!",
+    "pt": "Meu chefe me pediu para fazer hora extra!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 442,
+    "en": "What are your thoughts on this matter?",
+    "pt": "Quais são seus pensamentos sobre este assunto?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 448,
+    "en": "I'd like to invite you to my graduation ceremony!",
+    "pt": "Gostaria de convidá-lo(a) para minha cerimônia de formatura!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 450,
+    "en": "I think that's a great idea!",
+    "pt": "Acho que é uma ótima ideia!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 454,
+    "en": "Can you call me a cab?",
+    "pt": "Pode chamar um táxi para mim?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 455,
+    "en": "Can you help me with this task?",
+    "pt": "Pode me ajudar com esta tarefa?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 457,
+    "en": "How do I get to the airport?",
+    "pt": "Como chego ao aeroporto?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 458,
+    "en": "I'm writing to inform you that!..",
+    "pt": "Estou escrevendo para informá-lo(a) que!..",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 459,
+    "en": "Would it be possible to get an extension?",
+    "pt": "Seria possível conseguir uma extensão?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 460,
+    "en": "I'm a bit nervous about the presentation!",
+    "pt": "Estou um pouco nervoso(a) com a apresentação!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 464,
+    "en": "Are there any good concerts this weekend?",
+    "pt": "Há algum bom show neste fim de semana?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 465,
+    "en": "Do you mind if I sit here?",
+    "pt": "Você se importa se eu sentar aqui?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 466,
+    "en": "Can you recommend a good restaurant?",
+    "pt": "Você pode recomendar um bom restaurante?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 468,
+    "en": "Can you help me with this task?",
+    "pt": "Pode me ajudar com esta tarefa?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 470,
+    "en": "Could you put me on hold, please?",
+    "pt": "Você poderia me colocar em espera, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 471,
+    "en": "Would you like to join us for dinner?",
+    "pt": "Você gostaria de se juntar a nós para o jantar?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 472,
+    "en": "What's the password for the Wi-Fi?",
+    "pt": "Qual é a senha do Wi-Fi?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 474,
+    "en": "I'm proud of what we accomplished!",
+    "pt": "Estou orgulhoso(a) do que realizamos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 475,
+    "en": "I'd like to invite you to my graduation ceremony!",
+    "pt": "Gostaria de convidá-lo(a) para minha cerimônia de formatura!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 477,
+    "en": "Are there any good concerts this weekend?",
+    "pt": "Há algum bom show neste fim de semana?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 478,
+    "en": "Would you mind opening the window?",
+    "pt": "Você se importaria de abrir a janela?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 481,
+    "en": "I'm feeling a bit under the weather!",
+    "pt": "Estou me sentindo um pouco indisposto(a)!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 483,
+    "en": "Do you think I need an umbrella?",
+    "pt": "Você acha que preciso de um guarda-chuva?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 485,
+    "en": "Does this train stop at Central Station?",
+    "pt": "Este trem para na Estação Central?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 487,
+    "en": "What do you think about this?",
+    "pt": "O que você acha disso?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 489,
+    "en": "I knew you could do it!",
+    "pt": "Eu sabia que você conseguiria!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 493,
+    "en": "I'd like to schedule a meeting!",
+    "pt": "Eu gostaria de agendar uma reunião!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 496,
+    "en": "Is this the right way to the station?",
+    "pt": "Este é o caminho certo para a estação?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 500,
+    "en": "Could you send me the report?",
+    "pt": "Você poderia me enviar o relatório?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 503,
+    "en": "Are there any good nightclubs around here?",
+    "pt": "Há alguma boa boate por aqui?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 505,
+    "en": "Did you watch the game last night?",
+    "pt": "Você assistiu ao jogo ontem à noite?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 506,
+    "en": "Are there any good concerts this weekend?",
+    "pt": "Há algum bom show neste fim de semana?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 507,
+    "en": "Can you show me how this works?",
+    "pt": "Você pode me mostrar como isso funciona?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 511,
+    "en": "Is there a direct flight to Chicago?",
+    "pt": "Há um voo direto para Chicago?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 512,
+    "en": "Are you close to your family?",
+    "pt": "Você é próximo(a) da sua família?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 514,
+    "en": "I look forward to hearing from you!",
+    "pt": "Aguardo seu retorno!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 516,
+    "en": "What's the weather forecast for tomorrow?",
+    "pt": "Qual é a previsão do tempo para amanhã?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 519,
+    "en": "Have you tried the local cuisine?",
+    "pt": "Você já experimentou a culinária local?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 520,
+    "en": "Would you like to join us for dinner?",
+    "pt": "Você gostaria de se juntar a nós para o jantar?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 521,
+    "en": "I knew you could do it!",
+    "pt": "Eu sabia que você conseguiria!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 522,
+    "en": "In my opinion, it's not worth it!",
+    "pt": "Na minha opinião, não vale a pena!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 523,
+    "en": "Have you tried the local cuisine?",
+    "pt": "Você já experimentou a culinária local?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 524,
+    "en": "I'm having a barbecue on Sunday! Can you come?",
+    "pt": "Estou fazendo um churrasco no domingo! Você pode vir?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 525,
+    "en": "It's about a 10-minute walk from here!",
+    "pt": "É cerca de 10 minutos a pé daqui!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 528,
+    "en": "Can you recommend a good language school?",
+    "pt": "Você pode recomendar uma boa escola de idiomas?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 531,
+    "en": "Can I speak to John, please?",
+    "pt": "Posso falar com John, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 532,
+    "en": "Where is the nearest police station?",
+    "pt": "Onde fica a delegacia mais próxima?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 535,
+    "en": "Let's catch up over lunch next week!",
+    "pt": "Vamos colocar o papo em dia durante o almoço na próxima semana!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 539,
+    "en": "I need to print some documents!",
+    "pt": "Preciso imprimir alguns documentos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 546,
+    "en": "I need to print some documents!",
+    "pt": "Preciso imprimir alguns documentos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 547,
+    "en": "I completely forgot about our meeting!",
+    "pt": "Esqueci completamente da nossa reunião!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 550,
+    "en": "I knew you could do it!",
+    "pt": "Eu sabia que você conseguiria!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 554,
+    "en": "Can you show me how this works?",
+    "pt": "Você pode me mostrar como isso funciona?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 558,
+    "en": "Thank you for your prompt reply!",
+    "pt": "Obrigado(a) pela sua resposta rápida!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 559,
+    "en": "My daughter is five years old!",
+    "pt": "Minha filha tem cinco anos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 561,
+    "en": "I need to print some documents!",
+    "pt": "Preciso imprimir alguns documentos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 563,
+    "en": "Can I see the menu, please?",
+    "pt": "Posso ver o cardápio, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 564,
+    "en": "Can I speak to John, please?",
+    "pt": "Posso falar com John, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 567,
+    "en": "What time does the show start?",
+    "pt": "A que horas começa o show?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 571,
+    "en": "That costs an arm and a leg!",
+    "pt": "Isso custa os olhos da cara!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 573,
+    "en": "I'd like to schedule a meeting!",
+    "pt": "Eu gostaria de agendar uma reunião!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 574,
+    "en": "When is the next train to Boston?",
+    "pt": "Quando é o próximo trem para Boston?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 578,
+    "en": "I'm so excited about the trip!",
+    "pt": "Estou tão animado(a) com a viagem!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 582,
+    "en": "I need to print some documents!",
+    "pt": "Preciso imprimir alguns documentos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 586,
+    "en": "I like to read science fiction novels!",
+    "pt": "Eu gosto de ler romances de ficção científica!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 587,
+    "en": "Can I see the menu, please?",
+    "pt": "Posso ver o cardápio, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 591,
+    "en": "I strongly believe that education is important!",
+    "pt": "Acredito firmemente que a educação é importante!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 593,
+    "en": "Please leave a message after the beep!",
+    "pt": "Por favor, deixe uma mensagem após o bipe!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 594,
+    "en": "I'm so excited about the trip!",
+    "pt": "Estou tão animado(a) com a viagem!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 596,
+    "en": "Can I have some extra towels?",
+    "pt": "Posso ter algumas toalhas extras?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 597,
+    "en": "I think we have a bad connection!",
+    "pt": "Acho que temos uma conexão ruim!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 598,
+    "en": "Do you think I need an umbrella?",
+    "pt": "Você acha que preciso de um guarda-chuva?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 599,
+    "en": "Can you show me how this works?",
+    "pt": "Você pode me mostrar como isso funciona?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 600,
+    "en": "What do you do in your free time?",
+    "pt": "O que você faz no seu tempo livre?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 605,
+    "en": "Where can I buy tickets for the game?",
+    "pt": "Onde posso comprar ingressos para o jogo?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 606,
+    "en": "I think that's a great idea!",
+    "pt": "Acho que é uma ótima ideia!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 609,
+    "en": "I didn't mean to offend you!",
+    "pt": "Não quis ofendê-lo(a)!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 616,
+    "en": "Do you think I need an umbrella?",
+    "pt": "Você acha que preciso de um guarda-chuva?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 618,
+    "en": "I completely forgot about our meeting!",
+    "pt": "Esqueci completamente da nossa reunião!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 619,
+    "en": "How much is it per night?",
+    "pt": "Quanto custa por noite?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 624,
+    "en": "The meeting starts at 2 PM!",
+    "pt": "A reunião começa às 14h!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 629,
+    "en": "What are the must-see attractions here?",
+    "pt": "Quais são as atrações imperdíveis aqui?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 631,
+    "en": "What kind of music do you like?",
+    "pt": "Que tipo de música você gosta?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 632,
+    "en": "I'm looking for a new job!",
+    "pt": "Estou procurando um novo emprego!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 633,
+    "en": "Are you close to your family?",
+    "pt": "Você é próximo(a) da sua família?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 635,
+    "en": "Where is the nearest police station?",
+    "pt": "Onde fica a delegacia mais próxima?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 636,
+    "en": "I need to rent a car!",
+    "pt": "Preciso alugar um carro!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 637,
+    "en": "I'd like to check in, please!",
+    "pt": "Eu gostaria de fazer o check-in, por favor!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 638,
+    "en": "How do I get to the airport?",
+    "pt": "Como chego ao aeroporto?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 640,
+    "en": "In my opinion, it's not worth it!",
+    "pt": "Na minha opinião, não vale a pena!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 648,
+    "en": "When is the next train to Boston?",
+    "pt": "Quando é o próximo trem para Boston?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 651,
+    "en": "We're celebrating my mom's birthday this weekend!",
+    "pt": "Estamos comemorando o aniversário da minha mãe neste fim de semana!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 652,
+    "en": "Let's catch up over lunch next week!",
+    "pt": "Vamos colocar o papo em dia durante o almoço na próxima semana!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 653,
+    "en": "How much is it per night?",
+    "pt": "Quanto custa por noite?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 654,
+    "en": "Is there a bus to the city center?",
+    "pt": "Há um ônibus para o centro da cidade?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 663,
+    "en": "Could you put me on hold, please?",
+    "pt": "Você poderia me colocar em espera, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 664,
+    "en": "Where can I catch a taxi?",
+    "pt": "Onde posso pegar um táxi?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 666,
+    "en": "Could you speak more slowly, please?",
+    "pt": "Você poderia falar mais devagar, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 667,
+    "en": "We need to meet the deadline!",
+    "pt": "Precisamos cumprir o prazo!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 669,
+    "en": "Can I have some extra towels?",
+    "pt": "Posso ter algumas toalhas extras?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 671,
+    "en": "What's the password for the Wi-Fi?",
+    "pt": "Qual é a senha do Wi-Fi?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 674,
+    "en": "What's the weather forecast for tomorrow?",
+    "pt": "Qual é a previsão do tempo para amanhã?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 676,
+    "en": "I think it's going to rain!",
+    "pt": "Acho que vai chover!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 678,
+    "en": "How much is it per night?",
+    "pt": "Quanto custa por noite?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 679,
+    "en": "Could you send me the report?",
+    "pt": "Você poderia me enviar o relatório?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 681,
+    "en": "Can I have your email address?",
+    "pt": "Posso ter seu endereço de e-mail?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 685,
+    "en": "My grandfather is 90 years old!",
+    "pt": "Meu avô tem 90 anos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 686,
+    "en": "That costs an arm and a leg!",
+    "pt": "Isso custa os olhos da cara!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 688,
+    "en": "What are your thoughts on this matter?",
+    "pt": "Quais são seus pensamentos sobre este assunto?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 691,
+    "en": "I'd like to invite you to my graduation ceremony!",
+    "pt": "Gostaria de convidá-lo(a) para minha cerimônia de formatura!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 692,
+    "en": "Please leave a message after the beep!",
+    "pt": "Por favor, deixe uma mensagem após o bipe!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 693,
+    "en": "My boss asked me to work overtime!",
+    "pt": "Meu chefe me pediu para fazer hora extra!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 699,
+    "en": "What's your opinion on this matter?",
+    "pt": "Qual é a sua opinião sobre este assunto?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 703,
+    "en": "I'm learning how to cook Italian food!",
+    "pt": "Estou aprendendo a cozinhar comida italiana!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 706,
+    "en": "Is there a bus to the city center?",
+    "pt": "Há um ônibus para o centro da cidade?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 714,
+    "en": "Can you help me install this app?",
+    "pt": "Pode me ajudar a instalar este aplicativo?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 718,
+    "en": "How do I get to the airport?",
+    "pt": "Como chego ao aeroporto?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 721,
+    "en": "I'll follow up with an email!",
+    "pt": "Vou acompanhar com um e-mail!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 722,
+    "en": "I have mixed feelings about it!",
+    "pt": "Tenho sentimentos mistos sobre isso!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 724,
+    "en": "What do you do for a living?",
+    "pt": "O que você faz da vida?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 725,
+    "en": "I have a job interview tomorrow!",
+    "pt": "Tenho uma entrevista de emprego amanhã!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 726,
+    "en": "I need to rent a car!",
+    "pt": "Preciso alugar um carro!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 729,
+    "en": "Is there a power outlet nearby?",
+    "pt": "Há uma tomada por perto?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 730,
+    "en": "Can you recommend a good hotel?",
+    "pt": "Você pode recomendar um bom hotel?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 731,
+    "en": "Please let me know if you need any further information!",
+    "pt": "Por favor, avise-me se precisar de mais informações!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 734,
+    "en": "Where can I buy tickets for the game?",
+    "pt": "Onde posso comprar ingressos para o jogo?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 737,
+    "en": "Let's set up a conference call!",
+    "pt": "Vamos organizar uma teleconferência!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 738,
+    "en": "I've been waiting for an hour!",
+    "pt": "Estou esperando há uma hora!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 741,
+    "en": "What's the weather forecast for tomorrow?",
+    "pt": "Qual é a previsão do tempo para amanhã?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 742,
+    "en": "What kind of music do you like?",
+    "pt": "Que tipo de música você gosta?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 743,
+    "en": "I'm working on the project now!",
+    "pt": "Estou trabalhando no projeto agora!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 746,
+    "en": "I'm a bit nervous about the presentation!",
+    "pt": "Estou um pouco nervoso(a) com a apresentação!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 749,
+    "en": "Can you show me how this works?",
+    "pt": "Você pode me mostrar como isso funciona?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 754,
+    "en": "How much is a ticket to New York?",
+    "pt": "Quanto custa uma passagem para Nova York?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 758,
+    "en": "Would you mind opening the window?",
+    "pt": "Você se importaria de abrir a janela?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 763,
+    "en": "Can you recommend a good restaurant?",
+    "pt": "Você pode recomendar um bom restaurante?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 764,
+    "en": "Does this train stop at Central Station?",
+    "pt": "Este trem para na Estação Central?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 766,
+    "en": "I look forward to hearing from you!",
+    "pt": "Aguardo seu retorno!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 769,
+    "en": "Are you close to your family?",
+    "pt": "Você é próximo(a) da sua família?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 771,
+    "en": "My daughter is five years old!",
+    "pt": "Minha filha tem cinco anos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 773,
+    "en": "I need to print some documents!",
+    "pt": "Preciso imprimir alguns documentos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 777,
+    "en": "I'm feeling a bit under the weather!",
+    "pt": "Estou me sentindo um pouco indisposto(a)!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 781,
+    "en": "Would you be interested in joining our book club?",
+    "pt": "Você estaria interessado(a) em participar do nosso clube do livro?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 782,
+    "en": "I need to charge my laptop!",
+    "pt": "Preciso carregar meu laptop!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 786,
+    "en": "Can we reschedule for next week?",
+    "pt": "Podemos remarcar para a próxima semana?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 790,
+    "en": "I have a meeting at 3 PM!",
+    "pt": "Tenho uma reunião às 15h!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 791,
+    "en": "I'm working on the project now!",
+    "pt": "Estou trabalhando no projeto agora!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 792,
+    "en": "I think it's going to rain!",
+    "pt": "Acho que vai chover!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 794,
+    "en": "Do you play any musical instruments?",
+    "pt": "Você toca algum instrumento musical?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 796,
+    "en": "I completely forgot about our meeting!",
+    "pt": "Esqueci completamente da nossa reunião!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 797,
+    "en": "Can you help me install this app?",
+    "pt": "Pode me ajudar a instalar este aplicativo?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 799,
+    "en": "What time does the show start?",
+    "pt": "A que horas começa o show?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 800,
+    "en": "Can I speak to John, please?",
+    "pt": "Posso falar com John, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 806,
+    "en": "Can I see the menu, please?",
+    "pt": "Posso ver o cardápio, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 807,
+    "en": "Can we reschedule for next week?",
+    "pt": "Podemos remarcar para a próxima semana?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 808,
+    "en": "Could you send me the report?",
+    "pt": "Você poderia me enviar o relatório?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 809,
+    "en": "The meeting starts at 2 PM!",
+    "pt": "A reunião começa às 14h!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 810,
+    "en": "Can I return this if it doesn't fit?",
+    "pt": "Posso devolver isto se não servir?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 811,
+    "en": "I need help with my homework!",
+    "pt": "Preciso de ajuda com meu dever de casa!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 818,
+    "en": "My daughter is five years old!",
+    "pt": "Minha filha tem cinco anos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 819,
+    "en": "Did you watch the game last night?",
+    "pt": "Você assistiu ao jogo ontem à noite?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 820,
+    "en": "What do you think about this?",
+    "pt": "O que você acha disso?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 821,
+    "en": "What kind of music are you into?",
+    "pt": "Que tipo de música você gosta?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 822,
+    "en": "Do you have any plans for the weekend?",
+    "pt": "Você tem planos para o fim de semana?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 825,
+    "en": "What are the must-see attractions here?",
+    "pt": "Quais são as atrações imperdíveis aqui?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 828,
+    "en": "Can I have some extra towels?",
+    "pt": "Posso ter algumas toalhas extras?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 829,
+    "en": "Let's catch up over lunch next week!",
+    "pt": "Vamos colocar o papo em dia durante o almoço na próxima semana!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 830,
+    "en": "What kind of music are you into?",
+    "pt": "Que tipo de música você gosta?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 832,
+    "en": "I need to see a doctor!",
+    "pt": "Preciso ver um médico!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 833,
+    "en": "The store closes at 9 PM!",
+    "pt": "A loja fecha às 21h!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 836,
+    "en": "I need to rent a car!",
+    "pt": "Preciso alugar um carro!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 840,
+    "en": "That costs an arm and a leg!",
+    "pt": "Isso custa os olhos da cara!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 843,
+    "en": "What time does the train leave?",
+    "pt": "A que horas o trem parte?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 846,
+    "en": "I need to print some documents!",
+    "pt": "Preciso imprimir alguns documentos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 847,
+    "en": "I'm going to be late for work!",
+    "pt": "Vou me atrasar para o trabalho!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 849,
+    "en": "Can you show me on the map?",
+    "pt": "Pode me mostrar no mapa?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 853,
+    "en": "I have mixed feelings about it!",
+    "pt": "Tenho sentimentos mistos sobre isso!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 860,
+    "en": "My phone is about to die!",
+    "pt": "Meu telefone está quase sem bateria!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 861,
+    "en": "Do you play any musical instruments?",
+    "pt": "Você toca algum instrumento musical?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 862,
+    "en": "I think we have a bad connection!",
+    "pt": "Acho que temos uma conexão ruim!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 864,
+    "en": "Would you like to come to my party?",
+    "pt": "Você gostaria de vir à minha festa?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 865,
+    "en": "How much is the fare to downtown?",
+    "pt": "Quanto custa a tarifa para o centro?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 867,
+    "en": "What time do you start work?",
+    "pt": "A que horas você começa a trabalhar?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 868,
+    "en": "In my opinion, it's not worth it!",
+    "pt": "Na minha opinião, não vale a pena!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 871,
+    "en": "I've been waiting for an hour!",
+    "pt": "Estou esperando há uma hora!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 872,
+    "en": "My grandfather is 90 years old!",
+    "pt": "Meu avô tem 90 anos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 873,
+    "en": "Can I have some extra towels?",
+    "pt": "Posso ter algumas toalhas extras?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 874,
+    "en": "How do I get to the airport?",
+    "pt": "Como chego ao aeroporto?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 876,
+    "en": "Do you want to go to the movies tonight?",
+    "pt": "Você quer ir ao cinema hoje à noite?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 883,
+    "en": "I have a meeting at 3 PM!",
+    "pt": "Tenho uma reunião às 15h!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 886,
+    "en": "Can we reschedule for next week?",
+    "pt": "Podemos remarcar para a próxima semana?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 887,
+    "en": "I'm going to be late for work!",
+    "pt": "Vou me atrasar para o trabalho!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 889,
+    "en": "I have mixed feelings about it!",
+    "pt": "Tenho sentimentos mistos sobre isso!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 895,
+    "en": "What's your opinion on this matter?",
+    "pt": "Qual é a sua opinião sobre este assunto?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 898,
+    "en": "Let's go out for coffee sometime!",
+    "pt": "Vamos tomar um café qualquer dia desses!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 899,
+    "en": "Would you like to join us for dinner?",
+    "pt": "Você gostaria de se juntar a nós para o jantar?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 901,
+    "en": "What kind of music are you into?",
+    "pt": "Que tipo de música você gosta?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 905,
+    "en": "What are your plans for the holidays?",
+    "pt": "Quais são seus planos para as férias?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 906,
+    "en": "What's your opinion on this matter?",
+    "pt": "Qual é a sua opinião sobre este assunto?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 908,
+    "en": "Take the first exit at the roundabout!",
+    "pt": "Pegue a primeira saída na rotatória!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 914,
+    "en": "Can I speak to John, please?",
+    "pt": "Posso falar com John, por favor?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 916,
+    "en": "Are there any good concerts this weekend?",
+    "pt": "Há algum bom show neste fim de semana?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 918,
+    "en": "I didn't mean to offend you!",
+    "pt": "Não quis ofendê-lo(a)!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 919,
+    "en": "Does this train stop at Central Station?",
+    "pt": "Este trem para na Estação Central?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 920,
+    "en": "I need to charge my laptop!",
+    "pt": "Preciso carregar meu laptop!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 921,
+    "en": "I'd like to check in, please!",
+    "pt": "Eu gostaria de fazer o check-in, por favor!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 922,
+    "en": "I'm having a barbecue on Sunday! Can you come?",
+    "pt": "Estou fazendo um churrasco no domingo! Você pode vir?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 923,
+    "en": "Could you send me the report?",
+    "pt": "Você poderia me enviar o relatório?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 924,
+    "en": "Thank you for your prompt reply!",
+    "pt": "Obrigado(a) pela sua resposta rápida!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 925,
+    "en": "I'm going to be late for work!",
+    "pt": "Vou me atrasar para o trabalho!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 927,
+    "en": "I work as a software engineer!",
+    "pt": "Eu trabalho como engenheiro de software!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 930,
+    "en": "Can you help me? It's urgent!",
+    "pt": "Pode me ajudar? É urgente!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 931,
+    "en": "I have a meeting at 3 PM!",
+    "pt": "Tenho uma reunião às 15h!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 933,
+    "en": "It's on the left, next to the bank!",
+    "pt": "É à esquerda, ao lado do banco!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 935,
+    "en": "What time does the train leave?",
+    "pt": "A que horas o trem parte?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 936,
+    "en": "Does this bus go to the beach?",
+    "pt": "Este ônibus vai para a praia?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 938,
+    "en": "I need to see a doctor!",
+    "pt": "Preciso ver um médico!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 940,
+    "en": "What are your plans for the holidays?",
+    "pt": "Quais são seus planos para as férias?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 943,
+    "en": "Can you call me a cab?",
+    "pt": "Pode chamar um táxi para mim?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 944,
+    "en": "The store closes at 9 PM!",
+    "pt": "A loja fecha às 21h!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 948,
+    "en": "I've been living here for two years!",
+    "pt": "Eu moro aqui há dois anos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 949,
+    "en": "Please leave a message after the beep!",
+    "pt": "Por favor, deixe uma mensagem após o bipe!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 950,
+    "en": "Where can I find the shoes?",
+    "pt": "Onde posso encontrar os sapatos?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 952,
+    "en": "My daughter is five years old!",
+    "pt": "Minha filha tem cinco anos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 953,
+    "en": "What do you do in your free time?",
+    "pt": "O que você faz no seu tempo livre?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 954,
+    "en": "Does this train stop at Central Station?",
+    "pt": "Este trem para na Estação Central?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 955,
+    "en": "Where can I catch a taxi?",
+    "pt": "Onde posso pegar um táxi?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 959,
+    "en": "We're having a family reunion next month!",
+    "pt": "Teremos uma reunião de família no próximo mês!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 960,
+    "en": "How many children do you have?",
+    "pt": "Quantos filhos você tem?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 961,
+    "en": "Do you have this in a different color?",
+    "pt": "Você tem isto em uma cor diferente?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 964,
+    "en": "I'm going to graduate next year!",
+    "pt": "Vou me formar no próximo ano!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 966,
+    "en": "Thank you for your prompt reply!",
+    "pt": "Obrigado(a) pela sua resposta rápida!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 968,
+    "en": "Does this train stop at Central Station?",
+    "pt": "Este trem para na Estação Central?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 970,
+    "en": "Do you want to go to the movies tonight?",
+    "pt": "Você quer ir ao cinema hoje à noite?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 973,
+    "en": "Let's catch up over lunch next week!",
+    "pt": "Vamos colocar o papo em dia durante o almoço na próxima semana!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 976,
+    "en": "Let's go out for coffee sometime!",
+    "pt": "Vamos tomar um café qualquer dia desses!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 978,
+    "en": "Where can I find the shoes?",
+    "pt": "Onde posso encontrar os sapatos?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 979,
+    "en": "Can you recommend a good restaurant?",
+    "pt": "Você pode recomendar um bom restaurante?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 981,
+    "en": "Can I have some extra towels?",
+    "pt": "Posso ter algumas toalhas extras?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 982,
+    "en": "The weather is perfect for a picnic!",
+    "pt": "O tempo está perfeito para um piquenique!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 985,
+    "en": "I've been waiting for an hour!",
+    "pt": "Estou esperando há uma hora!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 986,
+    "en": "I'm learning how to cook Italian food!",
+    "pt": "Estou aprendendo a cozinhar comida italiana!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 987,
+    "en": "I'm proud of what we accomplished!",
+    "pt": "Estou orgulhoso(a) do que realizamos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 989,
+    "en": "I'm proud of what we accomplished!",
+    "pt": "Estou orgulhoso(a) do que realizamos!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 990,
+    "en": "We're celebrating my mom's birthday this weekend!",
+    "pt": "Estamos comemorando o aniversário da minha mãe neste fim de semana!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 993,
+    "en": "My boss asked me to work overtime!",
+    "pt": "Meu chefe me pediu para fazer hora extra!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 994,
+    "en": "What do you do for fun?",
+    "pt": "O que você faz para se divertir?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 996,
+    "en": "In my opinion, it's not worth it!",
+    "pt": "Na minha opinião, não vale a pena!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 999,
+    "en": "I didn't mean to offend you!",
+    "pt": "Não quis ofendê-lo(a)!",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1001,
+    "en": "A few years ago, I broke into my own house.",
+    "pt": "Alguns anos atrás, eu arrombei minha própria casa.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1002,
+    "en": "I had just driven home, it was around midnight in the dead of Montreal winter.",
+    "pt": "Eu tinha acabado de dirigir para casa, era por volta da meia-noite no auge do inverno de Montreal.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1003,
+    "en": "I had been visiting my friend, Jeff, across town.",
+    "pt": "Eu estava visitando meu amigo, Jeff, do outro lado da cidade.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1004,
+    "en": "The thermometer on the front porch read minus 40 degrees.",
+    "pt": "O termômetro na varanda marcava menos 40 graus.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1005,
+    "en": "I found I didn't have my keys.",
+    "pt": "Percebi que não estava com minhas chaves.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1006,
+    "en": "I could see them through the window, lying on the dining room table.",
+    "pt": "Consegui vê-las pela janela, sobre a mesa de jantar.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1007,
+    "en": "I ran around and tried all the other doors and windows, and they were locked tight.",
+    "pt": "Corri ao redor e tentei todas as outras portas e janelas, e estavam bem trancadas.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1008,
+    "en": "I thought about calling a locksmith.",
+    "pt": "Pensei em chamar um chaveiro.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1009,
+    "en": "It could take a while for a locksmith to show up, and it was cold.",
+    "pt": "Poderia demorar para o chaveiro chegar, e estava frio.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1010,
+    "en": "I had an early flight to Europe the next morning.",
+    "pt": "Eu tinha um voo para a Europa logo cedo na manhã seguinte.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1011,
+    "en": "I needed to get my passport and my suitcase.",
+    "pt": "Eu precisava pegar meu passaporte e minha mala.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1012,
+    "en": "I broke through the basement window.",
+    "pt": "Quebrei a janela do porão.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1013,
+    "en": "I found a piece of cardboard and taped it up over the opening.",
+    "pt": "Encontrei um pedaço de papelão e colei sobre a abertura.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1014,
+    "en": "The brain releases cortisol that clouds your thinking.",
+    "pt": "O cérebro libera cortisol que embaralha seu pensamento.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1015,
+    "en": "My thinking was cloudy, but I didn't know it was cloudy.",
+    "pt": "Meu raciocínio estava confuso, mas eu não sabia disso.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1016,
+    "en": "I realized I didn't have my passport.",
+    "pt": "Percebi que não estava com meu passaporte.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1017,
+    "en": "I made it just in time, but they had given away my seat.",
+    "pt": "Cheguei bem na hora, mas já tinham dado meu assento para outra pessoa.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1018,
+    "en": "I got stuck in the back of the plane, next to the bathrooms.",
+    "pt": "Fiquei preso no fundo do avião, ao lado dos banheiros.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1019,
+    "en": "Are there systems that will prevent bad things from happening?",
+    "pt": "Existem sistemas que evitam que coisas ruins aconteçam?",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1020,
+    "en": "Danny Kahneman shared something called prospective hindsight.",
+    "pt": "Danny Kahneman compartilhou algo chamado retrospectiva prospectiva.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1021,
+    "en": "The pre-mortem helps you look ahead and minimize damage.",
+    "pt": "O pré-mortem ajuda a antecipar problemas e minimizar danos.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1022,
+    "en": "Designate a place for things that are easily lost.",
+    "pt": "Designe um lugar para coisas que se perdem facilmente.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1023,
+    "en": "The hippocampus keeps track of important locations.",
+    "pt": "O hipocampo rastreia locais importantes.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1024,
+    "en": "Squirrels use the hippocampus to find their nuts.",
+    "pt": "Esquilos usam o hipocampo para encontrar suas nozes.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1025,
+    "en": "Take a picture of your passport and store it in the cloud.",
+    "pt": "Tire uma foto do seu passaporte e guarde na nuvem.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1026,
+    "en": "Medical decisions are stressful and affect our thinking.",
+    "pt": "Decisões médicas são estressantes e afetam nosso raciocínio.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1027,
+    "en": "Ask for the number needed to treat (NNT).",
+    "pt": "Pergunte sobre o número necessário para tratar (NNT).",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1028,
+    "en": "300 people take the drug for one person to benefit.",
+    "pt": "300 pessoas tomam o remédio para uma se beneficiar.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1029,
+    "en": "Side effects occur in five percent of the patients.",
+    "pt": "Efeitos colaterais ocorrem em cinco por cento dos pacientes.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1030,
+    "en": "You're 15 times more likely to be harmed than helped.",
+    "pt": "Você tem 15 vezes mais chance de ser prejudicado do que ajudado.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1031,
+    "en": "Talk to your doctor about risks and side effects.",
+    "pt": "Converse com seu médico sobre riscos e efeitos colaterais.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1032,
+    "en": "For the last 17 years I've coached thousands of speakers.",
+    "pt": "Nos últimos 17 anos, treinei milhares de palestrantes.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1033,
+    "en": "Everyone wants to know how to look confident.",
+    "pt": "Todos querem saber como parecer confiantes.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1034,
+    "en": "When you speak up, it reads as confident.",
+    "pt": "Quando você fala com firmeza, transmite confiança.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1035,
+    "en": "You don't have to shout, aim for a five on a scale of one to ten.",
+    "pt": "Você não precisa gritar, mire em cinco numa escala de um a dez.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1036,
+    "en": "Nervous speakers tend to talk really fast.",
+    "pt": "Palestrantes nervosos tendem a falar muito rápido.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1037,
+    "en": "Pause in transition, pause for emphasis, pause like a boss.",
+    "pt": "Pause na transição, pause para dar ênfase, pause como um chefe.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1038,
+    "en": "Pretending to be a superhero is a quick way to look confident.",
+    "pt": "Fingir ser um super-herói é um jeito rápido de parecer confiante.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1039,
+    "en": "The audience cannot read your mind, just make the shape.",
+    "pt": "A plateia não lê sua mente, apenas faça a pose.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1040,
+    "en": "Make the smile shape instead of crossed arms shape.",
+    "pt": "Adote a forma do sorriso ao invés de braços cruzados.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1041,
+    "en": "Practice your silent sentence just as much as your speech.",
+    "pt": "Pratique sua frase silenciosa tanto quanto seu discurso.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1042,
+    "en": "Picture this: you're going on a boat trip.",
+    "pt": "Imagine isso: você está indo em uma viagem de barco.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1043,
+    "en": "How you show up really matters.",
+    "pt": "A forma como você se apresenta realmente importa.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1044,
+    "en": "Turn up the energy and speak up.",
+    "pt": "Aumente a energia e fale com mais firmeza.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1046,
+    "en": "Make the shape of a confident person.",
+    "pt": "Assuma a postura de uma pessoa confiante.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1047,
+    "en": "Video yourself to check your confident choices.",
+    "pt": "Grave-se em vídeo para verificar suas escolhas confiantes.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1049,
+    "en": "Craft what you say silently to yourself.",
+    "pt": "Construa o que você diz silenciosamente para si mesmo.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1050,
+    "en": "I want to help my audience to the best of my ability.",
+    "pt": "Quero ajudar meu público da melhor forma possível.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1051,
+    "en": "Replace unhelpful thoughts with a better sentence.",
+    "pt": "Substitua pensamentos inúteis por uma frase melhor.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1052,
+    "en": "Each season of Love Island was more salacious than the last.",
+    "pt": "Cada temporada de Love Island era mais picante que a anterior.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1053,
+    "en": "I didn’t even know where to start replacing that kind of dopamine hit.",
+    "pt": "Eu nem sabia por onde começar a substituir esse tipo de estímulo de dopamina.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1054,
+    "en": "I was profoundly and existentially bored.",
+    "pt": "Eu estava profundamente e existencialmente entediada.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1056,
+    "en": "I started brainstorming how to get more people access to mental health info.",
+    "pt": "Comecei a pensar em como dar acesso à saúde mental a mais pessoas.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1057,
+    "en": "I was able to develop an ADHD management app.",
+    "pt": "Consegui desenvolver um aplicativo de gerenciamento de TDAH.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1058,
+    "en": "We use all of our brain, even when we’re asleep.",
+    "pt": "Usamos todo o nosso cérebro, mesmo quando estamos dormindo.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1059,
+    "en": "Multitasking burns through your brain’s glucose.",
+    "pt": "Multitarefa consome a glicose do seu cérebro.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1060,
+    "en": "You get stuck in a cycle of brain fatigue.",
+    "pt": "Você fica preso em um ciclo de fadiga mental.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1061,
+    "en": "Mindlessness allows us to travel to the past, present, and future.",
+    "pt": "A mente vazia nos permite viajar para o passado, presente e futuro.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1062,
+    "en": "In 2020, I had a baby.",
+    "pt": "Em 2020, eu tive um bebê.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1066,
+    "en": "I started thinking about creative ways to spend my time.",
+    "pt": "Comecei a pensar em formas criativas de passar o tempo.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1067,
+    "en": "The true secret to dialing in is being able to space out.",
+    "pt": "O verdadeiro segredo para se concentrar é conseguir se desligar.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1068,
+    "en": "Your brain is always active, even when you're sleeping.",
+    "pt": "Seu cérebro está sempre ativo, mesmo quando você dorme.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1069,
+    "en": "When multitasking, you're shifting focus and draining energy.",
+    "pt": "Ao fazer multitarefas, você muda o foco e gasta energia.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1070,
+    "en": "You activate the default mode network when your brain is at rest.",
+    "pt": "Você ativa a rede de modo padrão quando seu cérebro está em repouso.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1071,
+    "en": "Doing nothing is actually doing something.",
+    "pt": "Não fazer nada é, na verdade, fazer algo.",
+    "category": null,
+    "level": null,
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1082,
+    "en": "Let's map out the integration points between the Omilia platform and our backend systems.",
+    "pt": "Vamos mapear os pontos de integração entre a plataforma Omilia e nossos sistemas de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1083,
+    "en": "We need to design a scalable API for Omilia event processing.",
+    "pt": "Precisamos projetar uma API escalável para o processamento de eventos da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1084,
+    "en": "Our team is working on deploying Omilia's NLU engine within a microservices architecture.",
+    "pt": "Nossa equipe está trabalhando na implantação do mecanismo NLU da Omilia dentro de uma arquitetura de microsserviços.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1085,
+    "en": "We should review the webhook security for the Omilia integration endpoints.",
+    "pt": "Devemos revisar a segurança dos webhooks para os endpoints de integração da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1086,
+    "en": "Before launching the new Omilia voicebot, we must complete all performance tests.",
+    "pt": "Antes de lançar o novo voicebot da Omilia, devemos concluir todos os testes de desempenho.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1087,
+    "en": "Let's build a unified API gateway for managing all Omilia and Nice CXone traffic.",
+    "pt": "Vamos construir um gateway de API unificado para gerenciar todo o tráfego da Omilia e do Nice CXone.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1088,
+    "en": "We are setting up a continuous integration pipeline for Omilia-related deployments.",
+    "pt": "Estamos configurando um pipeline de integração contínua para os deployments relacionados à Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1089,
+    "en": "Omilia's intent mapping configuration should be version-controlled alongside backend services.",
+    "pt": "A configuração de mapeamento de intenções da Omilia deve ser controlada por versão junto com os serviços de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1090,
+    "en": "We should conduct a code review focused on Omilia webhook handling.",
+    "pt": "Devemos realizar uma revisão de código focada no tratamento dos webhooks da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1091,
+    "en": "Our backend must be able to handle Omilia's session expiration events gracefully.",
+    "pt": "Nosso backend deve ser capaz de lidar de forma elegante com os eventos de expiração de sessão da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1092,
+    "en": "Let's map out the integration points between the Omilia platform and our backend systems.",
+    "pt": "Vamos mapear os pontos de integração entre a plataforma Omilia e nossos sistemas de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1093,
+    "en": "We need to design a scalable API for Omilia event processing.",
+    "pt": "Precisamos projetar uma API escalável para o processamento de eventos da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1094,
+    "en": "Our team is working on deploying Omilia's NLU engine within a microservices architecture.",
+    "pt": "Nossa equipe está trabalhando na implantação do mecanismo NLU da Omilia dentro de uma arquitetura de microsserviços.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1095,
+    "en": "We should review the webhook security for the Omilia integration endpoints.",
+    "pt": "Devemos revisar a segurança dos webhooks para os endpoints de integração da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1096,
+    "en": "Before launching the new Omilia voicebot, we must complete all performance tests.",
+    "pt": "Antes de lançar o novo voicebot da Omilia, devemos concluir todos os testes de desempenho.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1097,
+    "en": "Let's build a unified API gateway for managing all Omilia and Nice CXone traffic.",
+    "pt": "Vamos construir um gateway de API unificado para gerenciar todo o tráfego da Omilia e do Nice CXone.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1098,
+    "en": "We are setting up a continuous integration pipeline for Omilia-related deployments.",
+    "pt": "Estamos configurando um pipeline de integração contínua para os deployments relacionados à Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1099,
+    "en": "Omilia's intent mapping configuration should be version-controlled alongside backend services.",
+    "pt": "A configuração de mapeamento de intenções da Omilia deve ser controlada por versão junto com os serviços de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1100,
+    "en": "We should conduct a code review focused on Omilia webhook handling.",
+    "pt": "Devemos realizar uma revisão de código focada no tratamento dos webhooks da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1101,
+    "en": "Our backend must be able to handle Omilia's session expiration events gracefully.",
+    "pt": "Nosso backend deve ser capaz de lidar de forma elegante com os eventos de expiração de sessão da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1102,
+    "en": "Let's map out the integration points between the Omilia platform and our backend systems.",
+    "pt": "Vamos mapear os pontos de integração entre a plataforma Omilia e nossos sistemas de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1103,
+    "en": "We need to design a scalable API for Omilia event processing.",
+    "pt": "Precisamos projetar uma API escalável para o processamento de eventos da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1104,
+    "en": "Our team is working on deploying Omilia's NLU engine within a microservices architecture.",
+    "pt": "Nossa equipe está trabalhando na implantação do mecanismo NLU da Omilia dentro de uma arquitetura de microsserviços.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1105,
+    "en": "We should review the webhook security for the Omilia integration endpoints.",
+    "pt": "Devemos revisar a segurança dos webhooks para os endpoints de integração da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1106,
+    "en": "Before launching the new Omilia voicebot, we must complete all performance tests.",
+    "pt": "Antes de lançar o novo voicebot da Omilia, devemos concluir todos os testes de desempenho.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1107,
+    "en": "Let's build a unified API gateway for managing all Omilia and Nice CXone traffic.",
+    "pt": "Vamos construir um gateway de API unificado para gerenciar todo o tráfego da Omilia e do Nice CXone.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1108,
+    "en": "We are setting up a continuous integration pipeline for Omilia-related deployments.",
+    "pt": "Estamos configurando um pipeline de integração contínua para os deployments relacionados à Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1109,
+    "en": "Omilia's intent mapping configuration should be version-controlled alongside backend services.",
+    "pt": "A configuração de mapeamento de intenções da Omilia deve ser controlada por versão junto com os serviços de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1110,
+    "en": "We should conduct a code review focused on Omilia webhook handling.",
+    "pt": "Devemos realizar uma revisão de código focada no tratamento dos webhooks da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1111,
+    "en": "Our backend must be able to handle Omilia's session expiration events gracefully.",
+    "pt": "Nosso backend deve ser capaz de lidar de forma elegante com os eventos de expiração de sessão da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1112,
+    "en": "Let's map out the integration points between the Omilia platform and our backend systems.",
+    "pt": "Vamos mapear os pontos de integração entre a plataforma Omilia e nossos sistemas de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1113,
+    "en": "We need to design a scalable API for Omilia event processing.",
+    "pt": "Precisamos projetar uma API escalável para o processamento de eventos da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1114,
+    "en": "Our team is working on deploying Omilia's NLU engine within a microservices architecture.",
+    "pt": "Nossa equipe está trabalhando na implantação do mecanismo NLU da Omilia dentro de uma arquitetura de microsserviços.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1115,
+    "en": "We should review the webhook security for the Omilia integration endpoints.",
+    "pt": "Devemos revisar a segurança dos webhooks para os endpoints de integração da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1116,
+    "en": "Before launching the new Omilia voicebot, we must complete all performance tests.",
+    "pt": "Antes de lançar o novo voicebot da Omilia, devemos concluir todos os testes de desempenho.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1117,
+    "en": "Let's build a unified API gateway for managing all Omilia and Nice CXone traffic.",
+    "pt": "Vamos construir um gateway de API unificado para gerenciar todo o tráfego da Omilia e do Nice CXone.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1118,
+    "en": "We are setting up a continuous integration pipeline for Omilia-related deployments.",
+    "pt": "Estamos configurando um pipeline de integração contínua para os deployments relacionados à Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1119,
+    "en": "Omilia's intent mapping configuration should be version-controlled alongside backend services.",
+    "pt": "A configuração de mapeamento de intenções da Omilia deve ser controlada por versão junto com os serviços de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1120,
+    "en": "We should conduct a code review focused on Omilia webhook handling.",
+    "pt": "Devemos realizar uma revisão de código focada no tratamento dos webhooks da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1121,
+    "en": "Our backend must be able to handle Omilia's session expiration events gracefully.",
+    "pt": "Nosso backend deve ser capaz de lidar de forma elegante com os eventos de expiração de sessão da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1122,
+    "en": "Let's map out the integration points between the Omilia platform and our backend systems.",
+    "pt": "Vamos mapear os pontos de integração entre a plataforma Omilia e nossos sistemas de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1123,
+    "en": "We need to design a scalable API for Omilia event processing.",
+    "pt": "Precisamos projetar uma API escalável para o processamento de eventos da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1124,
+    "en": "Our team is working on deploying Omilia's NLU engine within a microservices architecture.",
+    "pt": "Nossa equipe está trabalhando na implantação do mecanismo NLU da Omilia dentro de uma arquitetura de microsserviços.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1125,
+    "en": "We should review the webhook security for the Omilia integration endpoints.",
+    "pt": "Devemos revisar a segurança dos webhooks para os endpoints de integração da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1126,
+    "en": "Before launching the new Omilia voicebot, we must complete all performance tests.",
+    "pt": "Antes de lançar o novo voicebot da Omilia, devemos concluir todos os testes de desempenho.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1127,
+    "en": "Let's build a unified API gateway for managing all Omilia and Nice CXone traffic.",
+    "pt": "Vamos construir um gateway de API unificado para gerenciar todo o tráfego da Omilia e do Nice CXone.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1128,
+    "en": "We are setting up a continuous integration pipeline for Omilia-related deployments.",
+    "pt": "Estamos configurando um pipeline de integração contínua para os deployments relacionados à Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1129,
+    "en": "Omilia's intent mapping configuration should be version-controlled alongside backend services.",
+    "pt": "A configuração de mapeamento de intenções da Omilia deve ser controlada por versão junto com os serviços de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1130,
+    "en": "We should conduct a code review focused on Omilia webhook handling.",
+    "pt": "Devemos realizar uma revisão de código focada no tratamento dos webhooks da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1131,
+    "en": "Our backend must be able to handle Omilia's session expiration events gracefully.",
+    "pt": "Nosso backend deve ser capaz de lidar de forma elegante com os eventos de expiração de sessão da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1132,
+    "en": "Let's map out the integration points between the Omilia platform and our backend systems.",
+    "pt": "Vamos mapear os pontos de integração entre a plataforma Omilia e nossos sistemas de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1133,
+    "en": "We need to design a scalable API for Omilia event processing.",
+    "pt": "Precisamos projetar uma API escalável para o processamento de eventos da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1134,
+    "en": "Our team is working on deploying Omilia's NLU engine within a microservices architecture.",
+    "pt": "Nossa equipe está trabalhando na implantação do mecanismo NLU da Omilia dentro de uma arquitetura de microsserviços.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1135,
+    "en": "We should review the webhook security for the Omilia integration endpoints.",
+    "pt": "Devemos revisar a segurança dos webhooks para os endpoints de integração da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1136,
+    "en": "Before launching the new Omilia voicebot, we must complete all performance tests.",
+    "pt": "Antes de lançar o novo voicebot da Omilia, devemos concluir todos os testes de desempenho.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1137,
+    "en": "Let's build a unified API gateway for managing all Omilia and Nice CXone traffic.",
+    "pt": "Vamos construir um gateway de API unificado para gerenciar todo o tráfego da Omilia e do Nice CXone.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1138,
+    "en": "We are setting up a continuous integration pipeline for Omilia-related deployments.",
+    "pt": "Estamos configurando um pipeline de integração contínua para os deployments relacionados à Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1139,
+    "en": "Omilia's intent mapping configuration should be version-controlled alongside backend services.",
+    "pt": "A configuração de mapeamento de intenções da Omilia deve ser controlada por versão junto com os serviços de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1140,
+    "en": "We should conduct a code review focused on Omilia webhook handling.",
+    "pt": "Devemos realizar uma revisão de código focada no tratamento dos webhooks da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1141,
+    "en": "Our backend must be able to handle Omilia's session expiration events gracefully.",
+    "pt": "Nosso backend deve ser capaz de lidar de forma elegante com os eventos de expiração de sessão da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1142,
+    "en": "Let's map out the integration points between the Omilia platform and our backend systems.",
+    "pt": "Vamos mapear os pontos de integração entre a plataforma Omilia e nossos sistemas de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1143,
+    "en": "We need to design a scalable API for Omilia event processing.",
+    "pt": "Precisamos projetar uma API escalável para o processamento de eventos da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1144,
+    "en": "Our team is working on deploying Omilia's NLU engine within a microservices architecture.",
+    "pt": "Nossa equipe está trabalhando na implantação do mecanismo NLU da Omilia dentro de uma arquitetura de microsserviços.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1145,
+    "en": "We should review the webhook security for the Omilia integration endpoints.",
+    "pt": "Devemos revisar a segurança dos webhooks para os endpoints de integração da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1146,
+    "en": "Before launching the new Omilia voicebot, we must complete all performance tests.",
+    "pt": "Antes de lançar o novo voicebot da Omilia, devemos concluir todos os testes de desempenho.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1147,
+    "en": "Let's build a unified API gateway for managing all Omilia and Nice CXone traffic.",
+    "pt": "Vamos construir um gateway de API unificado para gerenciar todo o tráfego da Omilia e do Nice CXone.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1148,
+    "en": "We are setting up a continuous integration pipeline for Omilia-related deployments.",
+    "pt": "Estamos configurando um pipeline de integração contínua para os deployments relacionados à Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1149,
+    "en": "Omilia's intent mapping configuration should be version-controlled alongside backend services.",
+    "pt": "A configuração de mapeamento de intenções da Omilia deve ser controlada por versão junto com os serviços de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1150,
+    "en": "We should conduct a code review focused on Omilia webhook handling.",
+    "pt": "Devemos realizar uma revisão de código focada no tratamento dos webhooks da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1151,
+    "en": "Our backend must be able to handle Omilia's session expiration events gracefully.",
+    "pt": "Nosso backend deve ser capaz de lidar de forma elegante com os eventos de expiração de sessão da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1152,
+    "en": "Let's map out the integration points between the Omilia platform and our backend systems.",
+    "pt": "Vamos mapear os pontos de integração entre a plataforma Omilia e nossos sistemas de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1153,
+    "en": "We need to design a scalable API for Omilia event processing.",
+    "pt": "Precisamos projetar uma API escalável para o processamento de eventos da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1154,
+    "en": "Our team is working on deploying Omilia's NLU engine within a microservices architecture.",
+    "pt": "Nossa equipe está trabalhando na implantação do mecanismo NLU da Omilia dentro de uma arquitetura de microsserviços.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1155,
+    "en": "We should review the webhook security for the Omilia integration endpoints.",
+    "pt": "Devemos revisar a segurança dos webhooks para os endpoints de integração da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1156,
+    "en": "Before launching the new Omilia voicebot, we must complete all performance tests.",
+    "pt": "Antes de lançar o novo voicebot da Omilia, devemos concluir todos os testes de desempenho.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1157,
+    "en": "Let's build a unified API gateway for managing all Omilia and Nice CXone traffic.",
+    "pt": "Vamos construir um gateway de API unificado para gerenciar todo o tráfego da Omilia e do Nice CXone.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1158,
+    "en": "We are setting up a continuous integration pipeline for Omilia-related deployments.",
+    "pt": "Estamos configurando um pipeline de integração contínua para os deployments relacionados à Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1159,
+    "en": "Omilia's intent mapping configuration should be version-controlled alongside backend services.",
+    "pt": "A configuração de mapeamento de intenções da Omilia deve ser controlada por versão junto com os serviços de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1160,
+    "en": "We should conduct a code review focused on Omilia webhook handling.",
+    "pt": "Devemos realizar uma revisão de código focada no tratamento dos webhooks da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1161,
+    "en": "Our backend must be able to handle Omilia's session expiration events gracefully.",
+    "pt": "Nosso backend deve ser capaz de lidar de forma elegante com os eventos de expiração de sessão da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1162,
+    "en": "Let's map out the integration points between the Omilia platform and our backend systems.",
+    "pt": "Vamos mapear os pontos de integração entre a plataforma Omilia e nossos sistemas de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1163,
+    "en": "We need to design a scalable API for Omilia event processing.",
+    "pt": "Precisamos projetar uma API escalável para o processamento de eventos da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1164,
+    "en": "Our team is working on deploying Omilia's NLU engine within a microservices architecture.",
+    "pt": "Nossa equipe está trabalhando na implantação do mecanismo NLU da Omilia dentro de uma arquitetura de microsserviços.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1165,
+    "en": "We should review the webhook security for the Omilia integration endpoints.",
+    "pt": "Devemos revisar a segurança dos webhooks para os endpoints de integração da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1166,
+    "en": "Before launching the new Omilia voicebot, we must complete all performance tests.",
+    "pt": "Antes de lançar o novo voicebot da Omilia, devemos concluir todos os testes de desempenho.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1167,
+    "en": "Let's build a unified API gateway for managing all Omilia and Nice CXone traffic.",
+    "pt": "Vamos construir um gateway de API unificado para gerenciar todo o tráfego da Omilia e do Nice CXone.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1168,
+    "en": "We are setting up a continuous integration pipeline for Omilia-related deployments.",
+    "pt": "Estamos configurando um pipeline de integração contínua para os deployments relacionados à Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1169,
+    "en": "Omilia's intent mapping configuration should be version-controlled alongside backend services.",
+    "pt": "A configuração de mapeamento de intenções da Omilia deve ser controlada por versão junto com os serviços de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1170,
+    "en": "We should conduct a code review focused on Omilia webhook handling.",
+    "pt": "Devemos realizar uma revisão de código focada no tratamento dos webhooks da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1171,
+    "en": "Our backend must be able to handle Omilia's session expiration events gracefully.",
+    "pt": "Nosso backend deve ser capaz de lidar de forma elegante com os eventos de expiração de sessão da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1172,
+    "en": "Let's map out the integration points between the Omilia platform and our backend systems.",
+    "pt": "Vamos mapear os pontos de integração entre a plataforma Omilia e nossos sistemas de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1173,
+    "en": "We need to design a scalable API for Omilia event processing.",
+    "pt": "Precisamos projetar uma API escalável para o processamento de eventos da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1174,
+    "en": "Our team is working on deploying Omilia's NLU engine within a microservices architecture.",
+    "pt": "Nossa equipe está trabalhando na implantação do mecanismo NLU da Omilia dentro de uma arquitetura de microsserviços.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1175,
+    "en": "We should review the webhook security for the Omilia integration endpoints.",
+    "pt": "Devemos revisar a segurança dos webhooks para os endpoints de integração da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1176,
+    "en": "Before launching the new Omilia voicebot, we must complete all performance tests.",
+    "pt": "Antes de lançar o novo voicebot da Omilia, devemos concluir todos os testes de desempenho.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1177,
+    "en": "Let's build a unified API gateway for managing all Omilia and Nice CXone traffic.",
+    "pt": "Vamos construir um gateway de API unificado para gerenciar todo o tráfego da Omilia e do Nice CXone.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1178,
+    "en": "We are setting up a continuous integration pipeline for Omilia-related deployments.",
+    "pt": "Estamos configurando um pipeline de integração contínua para os deployments relacionados à Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1179,
+    "en": "Omilia's intent mapping configuration should be version-controlled alongside backend services.",
+    "pt": "A configuração de mapeamento de intenções da Omilia deve ser controlada por versão junto com os serviços de backend.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1180,
+    "en": "We should conduct a code review focused on Omilia webhook handling.",
+    "pt": "Devemos realizar uma revisão de código focada no tratamento dos webhooks da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  },
+  {
+    "id": 1181,
+    "en": "Our backend must be able to handle Omilia's session expiration events gracefully.",
+    "pt": "Nosso backend deve ser capaz de lidar de forma elegante com os eventos de expiração de sessão da Omilia.",
+    "category": "Software Development and Integration",
+    "level": "B2",
+    "favorite": 0,
+    "last_review": null,
+    "score": 0
+  }
+]
