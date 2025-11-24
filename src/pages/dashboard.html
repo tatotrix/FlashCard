@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Dashboard</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" rel="stylesheet"/>
+<link href="../css/style.css" rel="stylesheet"/>
+<!-- Chart.js para gráficos -->
+</head>
+<body><div>
+<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
+<div class="container-fluid">
+<a class="navbar-brand fw-bold text-primary" href="../index.html">🧠 FlashCards</a>
+<button class="navbar-toggler" data-bs-target="#navbarNav" data-bs-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse justify-content-between" id="navbarNav">
+<ul class="navbar-nav">
+<li class="nav-item"><a class="nav-link" href="../pages/dashboard.html">Home</a></li>
+<li class="nav-item"><a class="nav-link" href="../index.html">Cards</a></li>
+<li class="nav-item"><a class="nav-link" href="../pages/cadastrar.html">Cadastrar Cards</a></li>
+<li class="nav-item"><a class="nav-link" href="../pages/questoes.html">Questões</a></li>
+<li class="nav-item"><a class="nav-link" href="../pages/manage-questions.html">Gerenciar Questões</a></li>
+</ul>
+<ul class="navbar-nav">
+<li class="nav-item"><a class="nav-link text-danger fw-bold" href="../login.html">Sair</a></li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="text-center py-3 bg-light">
+<img alt="Focus Study" class="img-fluid rounded shadow" src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&amp;fit=crop&amp;w=1400&amp;q=80" style="max-height: 220px; object-fit: cover;"/>
+</div>
+</div><div>
+
+</div><div>
+</div>
+<!-- Link de acessibilidade para pular para o conteúdo principal -->
+<a class="skip-link" href="#main-content">Pular para o conteúdo</a>
+<main class="container-fluid mt-4" id="main-content">
+<h2 class="text-center mb-4" data-i18n="dashboard">Dashboard</h2>
+<!-- KPIs principais -->
+<div class="row mb-4">
+<div class="col-md-3 col-sm-6 mb-3">
+<div class="card h-100 border-primary">
+<div class="card-body text-center">
+<i class="bi bi-card-text text-primary mb-2" style="font-size: 2rem;"></i>
+<h5 class="card-title" data-i18n="total_cards">Total de Cards</h5>
+<p class="card-text display-6" id="totalCards">0</p>
+</div>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 mb-3">
+<div class="card h-100 border-warning">
+<div class="card-body text-center">
+<i class="bi bi-star-fill text-warning mb-2" style="font-size: 2rem;"></i>
+<h5 class="card-title" data-i18n="favorite_cards">Cards Favoritos</h5>
+<p class="card-text display-6" id="favoriteCards">0</p>
+</div>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 mb-3">
+<div class="card h-100 border-success">
+<div class="card-body text-center">
+<i class="bi bi-question-circle text-success mb-2" style="font-size: 2rem;"></i>
+<h5 class="card-title" data-i18n="total_questions">Total de Questões</h5>
+<p class="card-text display-6" id="totalQuestions">0</p>
+</div>
+</div>
+</div>
+<div class="col-md-3 col-sm-6 mb-3">
+<div class="card h-100 border-info">
+<div class="card-body text-center">
+<i class="bi bi-eye text-info mb-2" style="font-size: 2rem;"></i>
+<h5 class="card-title" data-i18n="cards_viewed">Cards Visualizados</h5>
+<p class="card-text display-6" id="cardsViewed">0</p>
+</div>
+</div>
+</div>
+</div>
+<!-- Gráficos -->
+<div class="row mb-4">
+<!-- Gráfico de Cards por Categoria -->
+<div class="col-lg-6 mb-4">
+<div class="card h-100">
+<div class="card-header">
+<h5 class="card-title mb-0" data-i18n="cards_by_category">Cards por Categoria</h5>
+</div>
+<div class="card-body">
+<canvas id="categoryChart"></canvas>
+</div>
+</div>
+</div>
+<!-- Gráfico de Progresso de Aprendizado -->
+<div class="col-lg-6 mb-4">
+<div class="card h-100">
+<div class="card-header">
+<h5 class="card-title mb-0" data-i18n="learning_progress">Progresso de Aprendizado</h5>
+</div>
+<div class="card-body">
+<canvas id="progressChart"></canvas>
+</div>
+</div>
+</div>
+</div>
+<div class="row mb-4">
+<!-- Gráfico de Acertos no Quiz -->
+<div class="col-lg-6 mb-4">
+<div class="card h-100">
+<div class="card-header">
+<h5 class="card-title mb-0" data-i18n="quiz_performance">Desempenho no Quiz</h5>
+</div>
+<div class="card-body">
+<canvas id="quizChart"></canvas>
+</div>
+</div>
+</div>
+<!-- Gráfico de Atividade Diária -->
+<div class="col-lg-6 mb-4">
+<div class="card h-100">
+<div class="card-header">
+<h5 class="card-title mb-0" data-i18n="daily_activity">Atividade Diária</h5>
+</div>
+<div class="card-body">
+<canvas id="activityChart"></canvas>
+</div>
+</div>
+</div>
+</div>
+<!-- Estatísticas detalhadas -->
+<div class="row mb-4">
+<div class="col-md-6 mb-4">
+<div class="card h-100">
+<div class="card-header">
+<h5 class="card-title mb-0" data-i18n="learning_stats">Estatísticas de Aprendizado</h5>
+</div>
+<div class="card-body">
+<table class="table">
+<tbody>
+<tr>
+<th data-i18n="cards_learned" scope="row">Cards Aprendidos</th>
+<td id="cardsLearned">0</td>
+</tr>
+<tr>
+<th data-i18n="cards_in_review" scope="row">Cards em Revisão</th>
+<td id="cardsInReview">0</td>
+</tr>
+<tr>
+<th data-i18n="new_cards" scope="row">Cards Novos</th>
+<td id="newCards">0</td>
+</tr>
+<tr>
+<th data-i18n="average_reviews" scope="row">Média de Revisões por Card</th>
+<td id="avgReviews">0</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="col-md-6 mb-4">
+<div class="card h-100">
+<div class="card-header">
+<h5 class="card-title mb-0" data-i18n="quiz_stats">Estatísticas do Quiz</h5>
+</div>
+<div class="card-body">
+<table class="table">
+<tbody>
+<tr>
+<th data-i18n="questions_answered" scope="row">Questões Respondidas</th>
+<td id="questionsAnswered">0</td>
+</tr>
+<tr>
+<th data-i18n="correct_answers" scope="row">Respostas Corretas</th>
+<td id="correctAnswers">0</td>
+</tr>
+<tr>
+<th data-i18n="accuracy_rate" scope="row">Taxa de Acerto</th>
+<td id="accuracyRate">0%</td>
+</tr>
+<tr>
+<th data-i18n="quiz_sessions" scope="row">Sessões de Quiz</th>
+<td id="quizSessions">0</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<!-- Últimas atividades -->
+<div class="row mb-4">
+<div class="col-12">
+<div class="card">
+<div class="card-header d-flex justify-content-between align-items-center">
+<h5 class="card-title mb-0" data-i18n="recent_activity">Atividade Recente</h5>
+<button class="btn btn-sm btn-outline-primary" data-i18n="refresh" onclick="refreshDashboard()">Atualizar</button>
+</div>
+<div class="card-body">
+<div class="table-responsive">
+<table class="table table-hover">
+<thead>
+<tr>
+<th data-i18n="date" scope="col">Data</th>
+<th data-i18n="activity" scope="col">Atividade</th>
+<th data-i18n="details" scope="col">Detalhes</th>
+</tr>
+</thead>
+<tbody id="activityList">
+<!-- Atividades serão carregadas dinamicamente aqui -->
+<tr>
+<td class="text-center" colspan="3" data-i18n="loading">Carregando...</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<!-- Container para toasts -->
+<div class="toast-container position-fixed bottom-0 end-0 p-3" id="toastContainer"></div>
+<!-- Scripts -->
+<script src="js/auth.js"></script><script src="js/db.js"></script><script src="js/script.js"></script></body>
+</html>

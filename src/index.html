@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>TED Talks Flashcards</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- <div style="text-align:center; margin: 20px;">
+        <button id="btn-clear-localstorage">🧹 Limpar LocalStorage</button>
+        <button id="btn-reset-localstorage">🔄 Resetar Dados</button>
+    </div> -->
+    
+  <!-- Link de acessibilidade para pular para o conteúdo principal -->
+  <a href="#main-content" class="skip-link">Pular para o conteúdo</a>
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#" data-i18n="app_title">FlashCards</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarContent">
+        <ul class="navbar-nav me-auto">
+          <li class="nav-item"><a class="nav-link active" href="index.html" data-i18n="home">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="index.html" data-i18n="cards">Cards</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/cadastrar.html" data-i18n="add_cards">Cadastrar Cards</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/questoes.html" data-i18n="questions">Questões</a></li>
+          <li class="nav-item"><a class="nav-link" href="pages/settings.html" data-i18n="settings">Configurações</a></li>
+          <li class="nav-item"><a class="nav-link text-danger" href="#" onclick="logout()" data-i18n="logout">Logout</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <main id="main-content">
+    <div id="searchContainer" class="container mt-3">
+      <div class="input-group">
+        <input type="text" id="searchInput" class="form-control" data-i18n-placeholder="search_placeholder" placeholder="Digite para pesquisar..." aria-label="Pesquisar">
+        <button class="btn btn-outline-secondary" type="button" onclick="searchFlashcards()" data-i18n="search">Pesquisar</button>
+      </div>
+    </div>
+
+    <div class="card" aria-live="polite">
+      <div class="progress-indicator new" id="progressIndicator" aria-label="Status: Novo"></div>
+      <div class="favorite" onclick="toggleFavorite()" id="favoriteIcon" aria-label="Adicionar aos favoritos" role="button" tabindex="0">☆</div>
+      <p id="english" aria-label="Texto em inglês"></p>
+      <p class="translation" id="portuguese" aria-label="Tradução em português"></p>
+      <div class="buttons">
+        <button class="btn btn-success m-1" onclick="previousCard()">⬅️ Anterior</button>
+        <button class="btn btn-success m-1" onclick="toggleTranslation()">💬 Mostrar Tradução</button>
+        <button class="btn btn-success m-1" onclick="nextCard()">➡️ Próximo</button>
+        <button class="btn btn-success m-1" onclick="randomCard()">🎲 Aleatório</button>
+      </div>
+      <div class="d-flex justify-content-center align-items-center gap-2 mt-2">
+        <button class="btn btn-success m-1" onclick="playAudio()">🔊 Ouvir</button>
+        <button onclick="decreaseRate()">➖</button>
+        <span id="rateDisplay">1.0x</span>
+        <button onclick="increaseRate()">➕</button>
+      </div>
+      <div class="counter" id="counter" aria-live="polite"></div>
+    </div>
+
+    <div id="categorySelector" class="container text-center mt-3" role="group" aria-label="Categorias">
+      <button type="button" class="btn btn-outline-primary m-1" onclick="filterByCategory('geral')" data-i18n="general">Geral</button>
+      <button type="button" class="btn btn-outline-primary m-1" onclick="filterByCategory('business')" data-i18n="business">Negócios</button>
+      <button type="button" class="btn btn-outline-primary m-1" onclick="filterByCategory('travel')" data-i18n="travel">Viagens</button>
+      <button type="button" class="btn btn-outline-primary m-1" onclick="filterByCategory('technology')" data-i18n="technology">Tecnologia</button>
+    </div>
+
+    <div class="text-center mt-3">
+      <button class="btn btn-dark m-1" onclick="resetFilter()" data-i18n="show_all">Mostrar Todos</button>
+      <button class="btn btn-warning m-1" onclick="filterFavoritesOnly()" data-i18n="show_favorites">Mostrar Favoritos</button>
+      <button class="btn btn-info m-1" onclick="exportData()" data-i18n="export_data">Exportar Dados</button>
+      <label class="btn btn-secondary m-1">
+        <span data-i18n="import_data">Importar Dados</span> <input type="file" hidden onchange="importData(event)">
+      </label>
+    </div>
+  </main>
+
+  <!-- Container para toasts -->
+  <div id="toastContainer" class="toast-container position-fixed bottom-0 end-0 p-3"></div>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="js/auth.js"></script>
+  <script src="js/db.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>
